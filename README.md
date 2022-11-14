@@ -1,6 +1,6 @@
 # :construction: Pixels art ! :construction:
 
-This project is my first integrate html, JavaScript and CSS.
+This project is my first integrate html, JavaScript and CSS, index have all HTML, script have all javaScript and style have all CSS.
 
 <details>
   <summary><strong>🤷🏽‍♀️ Português</strong></summary><br />
